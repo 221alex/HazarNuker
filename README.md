@@ -1,2 +1,0 @@
-# HazarNuker
-DISCORD_NUKKER
